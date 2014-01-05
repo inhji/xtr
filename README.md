@@ -14,7 +14,7 @@ extract archives (tar, tgz, bz2, zip, 7z)
 
 **Options:**
    
-* No arguments, `-h`, `--help`: Output usage information
+* `-h`, `--help`, No arguments: Output usage information
 * `-v`, `--version`: Output the version number
 
 **What it does:**
