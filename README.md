@@ -8,11 +8,11 @@ extract archives (tar, tgz, bz2, zip, 7z)
        0.1.0
 
    **Usage:**
-       xtr [options] [filename]
+       `xtr [options] [filename]`
 
    **Options:**
-       * -h, --help     output usage information
-       * -v, --version  output the version number
+       * `-h`, `--help`     output usage information
+       * `-v`, `--version`  output the version number
 
    **What it does:**
        Extracts the file extensions listed below
