@@ -11,8 +11,8 @@ extract archives (tar, tgz, bz2, zip, 7z)
        `xtr [options] [filename]`
 
    **Options:**
-       * `-h`, `--help`     output usage information
-       * `-v`, `--version`  output the version number
+       - `-h`, `--help`     output usage information
+       - `-v`, `--version`  output the version number
 
    **What it does:**
        Extracts the file extensions listed below
@@ -20,8 +20,8 @@ extract archives (tar, tgz, bz2, zip, 7z)
        `<filename>_<DD-MM-JJJJ>_<timestamp>`
 
    **Supported filetypes:**
-       * .tar
-       * .tar.gz
-       * .tar.bz2
-       * .zip
-       * .7z
+       - .tar
+       - .tar.gz
+       - .tar.bz2
+       - .zip
+       - .7z
