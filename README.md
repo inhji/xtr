@@ -1,14 +1,12 @@
-xtr
-====
+# xtr
 
-#### extract archives (tar, tgz, bz2, zip, 7z)
-
+extracts archives (currently: tar, tgz, bz2, zip, 7z)
 
 ### Version:
    
-0.1.0
+0.0.1
 
-### Installation
+### Installation:
 
 ```
 git clone https://github.com/inhji/xtr2.git
@@ -22,7 +20,7 @@ cd xtr2
 
 ### Options:
    
-* `-h`, `--help`, No arguments: Output usage information
+* `-h`, `--help`, `No arguments`: Output usage information
 * `-v`, `--version`: Output the version number
 
 ### What it does:
@@ -33,13 +31,13 @@ to a directory with the following filename:
 
 ### Supported filetypes:
    
-* .tar
-* .tar.gz
-* .tar.bz2
-* .zip
-* .7z
+* `.tar`
+* `.tar.gz`
+* `.tar.bz2`
+* `.zip`
+* `.7z`
 
-### Why I created this plugin
+### Why I created this plugin:
 
 ![http://xkcd.com/1168/](http://imgs.xkcd.com/comics/tar.png)
 

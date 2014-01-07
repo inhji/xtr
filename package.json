@@ -1,13 +1,13 @@
 {
   "name": "xtr",
-  "version": "0.1.0",
-  "description": "extract archives (tar, tgz, bz2, zip, 7z)",
+  "version": "0.0.1",
+  "description": "cli tool to extract archives (tar, tgz, bz2, zip, 7z)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Inhji",
-  "license": "BSD-2-Clause",
+  "license": "MIT",
   "dependencies": {
     "tarball-extract": "0.0.3",
     "underscore": "~1.5.2",
@@ -15,5 +15,9 @@
   },
   "bin": {
     "xtr": "index.js"
+  },
+  "devDependencies": {
+    "should": "~2.1.1",
+    "mocha": "~1.16.2"
   }
 }
