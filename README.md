@@ -9,9 +9,9 @@ extracts archives (currently: tar, tgz, bz2, zip, 7z)
 ### Installation:
 
 ```
-git clone https://github.com/inhji/xtr2.git
-cd xtr2
-(sudo) npm link
+$ git clone https://github.com/inhji/xtr.git
+$ cd xtr
+$ npm link
 ```
 
 ### Usage:
