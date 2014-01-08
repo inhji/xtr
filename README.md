@@ -14,6 +14,12 @@ $ cd xtr
 $ npm link
 ```
 
+or
+
+```
+$ npm install -g xtr
+```
+
 ### Usage:
    
 `xtr [options] [filename]`
